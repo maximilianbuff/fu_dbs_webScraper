@@ -1,0 +1,65 @@
+0. Headline: Alle Beiträge zu: https
+1. Headline: Zertifikate: Mozilla testet Ausstieg aus dem SSL-Widerrufs-Konzept OCSP
+                 
+2. Headline: Bahn beseitigt DNS-Fehler: Paypal wieder über WIFIonICE benutzbar
+                 
+3. Headline: Malware mit Apple-Entwicklerzertifikat spioniert HTTPS-Traffic aus
+                 
+4. Headline: Android O verbietet TLS Version Fallback
+                 
+5. Headline: Pornhub und YouPorn verschlüsseln mit HTTPS
+                 
+6. Headline: Neuer IETF-Standard: Alten Webverkehr wenigstens verschlüsseln
+                 
+7. Headline: US-CERT warnt vor HTTPS-Inspektion
+                 
+8. Headline: Unsicheres Log-in-Feld: Webseiten-Betreiber beschwert sich bei Firefox über Warnung
+                 
+9. Headline: Online-Glücksspiel: Schweiz führt trotz viel Kritik Netzsperren ein
+                 
+10. Headline: Sicherheitsforscher an AV-Hersteller: "Finger weg von HTTPS"
+                 
+11. Headline: Symantec schlampt erneut mit TLS-Zertifikaten
+                 
+12. Headline: heise online: HTTPS auch für Mobilgeräte
+                 
+13. Headline: HTTPS-Zwang für Apps: Apple verlängert Deadline
+                 
+14. Headline: WordPress will 2017 HTTPS-Ausbau vorantreiben
+                 
+15. Headline: SourceForge bietet optional HTTPS für Projektseiten
+                 
+16. Headline: Verschlüsselung: heise online und Heise-Onlinedienste stellen komplett auf HTTPS um
+                 
+17. Headline: Admins aufgepasst: SHA1-Zertifikate vor dem endgültigen Aus 
+                 
+18. Headline: Zertifikats-Klau: Fatale Sehschwäche bei Comodo
+                 
+19. Headline: Sicher surfen im Gratis-WLAN
+                 
+20. Headline: HTTPS-Verschlüsselung im Web erreicht erstmals 50 Prozent
+                 
+21. Headline: Verschlüsselung: heise online und Heise-Onlinedienste per HTTPS erreichbar
+                 
+22. Headline: Verschlüsselung bei heise online
+                 
+23. Headline: Let's Encrypt: Firefox soll Root-Zertifikat bald von Haus aus vertrauen
+                 
+24. Headline: HEIST: Wiederbelebter Angriff auf HTTPS vorgestellt
+                 
+25. Headline: Gratis-CA StartEncrypt beginnt mit Sicherheitsproblemen
+                 
+26. Headline: Fünf Millionen Zertifikate: Let's Encrypt wächst rasant
+                 
+27. Headline: Apple erzwingt HTTPS in Apps
+                 
+28. Headline: Ministerium für digitale Infrastruktur pfuscht beim eigenen Web-Server
+                 
+29. Headline: Let's Encrypt: Kostenlose SSL-Verschlüsselung bei Wordpress
+                 
+30. Headline: HTTPS: 77 Prozent aller Google-Anfragen verschlüsselt
+                 
+Most common words:
+HTTPS: 	     14
+HEISE: 	      6
+ONLINE: 	      5

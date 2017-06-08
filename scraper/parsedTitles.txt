@@ -1,0 +1,61 @@
+Alle Beiträge zu: https
+Zertifikate: Mozilla testet Ausstieg aus dem SSL-Widerrufs-Konzept OCSP
+                 
+Bahn beseitigt DNS-Fehler: Paypal wieder über WIFIonICE benutzbar
+                 
+Malware mit Apple-Entwicklerzertifikat spioniert HTTPS-Traffic aus
+                 
+Android O verbietet TLS Version Fallback
+                 
+Pornhub und YouPorn verschlüsseln mit HTTPS
+                 
+Neuer IETF-Standard: Alten Webverkehr wenigstens verschlüsseln
+                 
+US-CERT warnt vor HTTPS-Inspektion
+                 
+Unsicheres Log-in-Feld: Webseiten-Betreiber beschwert sich bei Firefox über Warnung
+                 
+Online-Glücksspiel: Schweiz führt trotz viel Kritik Netzsperren ein
+                 
+Sicherheitsforscher an AV-Hersteller: "Finger weg von HTTPS"
+                 
+Symantec schlampt erneut mit TLS-Zertifikaten
+                 
+heise online: HTTPS auch für Mobilgeräte
+                 
+HTTPS-Zwang für Apps: Apple verlängert Deadline
+                 
+WordPress will 2017 HTTPS-Ausbau vorantreiben
+                 
+SourceForge bietet optional HTTPS für Projektseiten
+                 
+Verschlüsselung: heise online und Heise-Onlinedienste stellen komplett auf HTTPS um
+                 
+Admins aufgepasst: SHA1-Zertifikate vor dem endgültigen Aus 
+                 
+Zertifikats-Klau: Fatale Sehschwäche bei Comodo
+                 
+Sicher surfen im Gratis-WLAN
+                 
+HTTPS-Verschlüsselung im Web erreicht erstmals 50 Prozent
+                 
+Verschlüsselung: heise online und Heise-Onlinedienste per HTTPS erreichbar
+                 
+Verschlüsselung bei heise online
+                 
+Let's Encrypt: Firefox soll Root-Zertifikat bald von Haus aus vertrauen
+                 
+HEIST: Wiederbelebter Angriff auf HTTPS vorgestellt
+                 
+Gratis-CA StartEncrypt beginnt mit Sicherheitsproblemen
+                 
+Fünf Millionen Zertifikate: Let's Encrypt wächst rasant
+                 
+Apple erzwingt HTTPS in Apps
+                 
+Ministerium für digitale Infrastruktur pfuscht beim eigenen Web-Server
+                 
+Let's Encrypt: Kostenlose SSL-Verschlüsselung bei Wordpress
+                 
+HTTPS: 77 Prozent aller Google-Anfragen verschlüsselt
+                 
